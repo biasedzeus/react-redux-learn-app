@@ -1,7 +1,7 @@
 import { actionTypes } from "../constants/actionTypes"
 
 const initialState = {
-    products=[{
+    products:[{
         id:1,
         title:"Naruto",
         category:"Ninja"
